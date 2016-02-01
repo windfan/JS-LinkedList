@@ -1,0 +1,11 @@
+{
+  "name": "js-linkedlist",
+  "version": "1.0.0",
+  "description": "An implementation of Linked-List in JavaScript",
+  "main": "linkedlist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tzu-Hao Huang",
+  "license": "MIT"
+}
