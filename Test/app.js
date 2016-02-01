@@ -1,5 +1,5 @@
 'use strict';
-var LinkedList = require("./linkedlist");
+var LinkedList = require("./../linkedlist");
 
 var list = new LinkedList();
 for(var i = 1; i <= 10; i++) {
